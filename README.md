@@ -12,4 +12,7 @@ Returns a line read from a file descriptor.
 | ft_calloc | Allocates dynamic memory for an array of elements of specified size. |
 
 ### get_next_line functions
+
+| Function      | Description                                                                           |
+| ------------- | --------------------------------------------------------------------------------------| 
 | get_next_line | Returns a line read from a file descriptor. |
